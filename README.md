@@ -13,7 +13,7 @@
 <!-- badge - img.shields.io -->
 <!-- icon svg - custom-icon-badges.demolab.com -->
 <p align="center">
-  <a href="mailto:faroukbelhassine@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-faroukbelhassine%40gmail.com-fdfdfd?logo=gmail"></a>
+  <a href="mailto:Khiarialaa@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-khiarialaa%40gmail.com-fdfdfd?logo=gmail"></a>
   <a href="mailto:alaeddine.khiari@esen.tn"><img alt="Email" src="https://img.shields.io/badge/-alaeddine.khiari%40esen.tn-D14836?logo=gmail&logoColor=white"></a>
         <a href="https://www.linkedin.com/in/ala-eddine-khiari/"><img alt="LinkedIn" src="https://img.shields.io/badge/-%40AlaEddineKhiari-1877F2?logo=linkedin"></a>
 </p>
