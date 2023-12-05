@@ -29,7 +29,6 @@
         <a href="https://www.java.com/en/"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
         <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
         <a href="https://sql.sh/"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-        <a href="https://www.gnu.org/software/bash/"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
         <a href="https://learn.microsoft.com/fr-fr/dotnet/csharp/"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
         <a href="https://www.cprogramming.com/"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
         <a href="https://isocpp.org/"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
@@ -48,7 +47,6 @@
         <a href="https://spring.io/"><img alt="Spring Boot" src="https://img.shields.io/badge/-Spring%20Boot-0945BD?logo=spring"></a>
         <a href="https://dotnet.microsoft.com/en-us/download"><img alt=".Net Core" src="https://img.shields.io/badge/-%20.Net%20Core-6433FF?logo=.net"></a>
         <a href="https://angular.io/"><img alt="Angular" src="https://img.shields.io/badge/-Angular-cc687f?logo=Angular&logoColor=DD0031"></a>
-        <a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-343a40.svg?logo=bootstrap"></a>
         <a href="https://nodejs.org/"><img alt="NodeJs" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
         <a href="https://www.djangoproject.com/"><img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white"></a>
 </p>
