@@ -13,10 +13,11 @@
 <!-- badge - img.shields.io -->
 <!-- icon svg - custom-icon-badges.demolab.com -->
 <p align="center">
-  <a href="mailto:Khiarialaa@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-khiarialaa%40gmail.com-fdfdfd?logo=gmail"></a>
+  <a href="mailto:khiarialaa@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-khiarialaa%40gmail.com-fdfdfd?logo=gmail"></a>
   <a href="mailto:alaeddine.khiari@esen.tn"><img alt="Email" src="https://img.shields.io/badge/-alaeddine.khiari%40esen.tn-D14836?logo=gmail&logoColor=white"></a>
-        <a href="https://www.linkedin.com/in/ala-eddine-khiari/"><img alt="LinkedIn" src="https://img.shields.io/badge/-%40AlaEddineKhiari-1877F2?logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/ala-eddine-khiari/"><img alt="LinkedIn" src="https://img.shields.io/badge/-%40AlaEddineKhiari-1877F2?logo=linkedin"></a>
 </p>
+
 
 <br/>
 
@@ -25,7 +26,7 @@
 ### 👨‍💻 Programming and markup languages
 
 <p>
-         <a href="https://www.php.net/"><img alt="PHP" src="https://img.shields.io/badge/PHP-8892BF.svg?logo=php&logoColor=white"></a>
+        <a href="https://www.php.net/"><img alt="PHP" src="https://img.shields.io/badge/PHP-8892BF.svg?logo=php&logoColor=white"></a>
         <a href="https://www.java.com/en/"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
         <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
         <a href="https://sql.sh/"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
@@ -87,13 +88,13 @@
 
 ### 💻 Stats
 
-      
-  <p> 
-          <br/>
-            <a href="https://github.com/AlaEddine-Khiari">
-              <img src="https://github-readme-stats.vercel.app/api?username=AlaEddine-Khiari&&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="AlaEddine-Khiari's github stats">
-            </a>
-            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="AlaEddine-Khiari's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlaEddine-Khiari&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
-          <br/>
-            <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-      </p>
+<p align="center">
+  <a href="https://github.com/AlaEddine-Khiari">
+    <img src="https://github-readme-stats.vercel.app/api?username=AlaEddine-Khiari&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="AlaEddine-Khiari's github stats">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="AlaEddine-Khiari's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlaEddine-Khiari&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
+  </a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</p>
