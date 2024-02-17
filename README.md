@@ -50,6 +50,7 @@
         <a href="https://angular.io/"><img alt="Angular" src="https://img.shields.io/badge/-Angular-cc687f?logo=Angular&logoColor=DD0031"></a>
         <a href="https://nodejs.org/"><img alt="NodeJs" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
         <a href="https://www.djangoproject.com/"><img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white"></a>
+        <a href="https://www.odoo.com/"><img alt="Odoo" src="https://img.shields.io/badge/Odoo-4A7C9D.svg?logo=odoo&logoColor=white"></a>
 </p>
 
 ### 🗄️ Databases
@@ -69,13 +70,11 @@
         <a href="https://developer.android.com/"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio"></a>
         <a href="https://www.postman.com/"><img alt="Postman" src="https://img.shields.io/badge/Postman-ff6c37?logo=postman&logoColor=white"></a>
         <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-        <a href="https://www.linux.org/"><img alt="Linux" src="https://camo.githubusercontent.com/2d5eae9b14e1ee9e8a79e3e0d738e50c1a62dd3acc773ee2875dfa19492139e9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6c696e75782d3035313232413f7374796c653d666c6174266c6f676f3d6c696e7578"></a>
         <a href="https://www.jetbrains.com/phpstorm/"><img alt="PhpStorm" src="https://img.shields.io/badge/-PhpStorm-c73df5?logo=PhpStorm"></a>
         <a href="https://netbeans.apache.org/"><img alt="NetBeans" src="https://custom-icon-badges.demolab.com/badge/-NetBeans-1b365d?logo=netbeans"></a>
         <a href="https://www.sublimetext.com/"><img alt="sublimetext" src="https://img.shields.io/badge/-Sublime%20Text-0F0344?logo=sublimetext"></a>
         <a href="https://jupyter.org/"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
         <a href="https://www.atlassian.com/software/jira"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC.svg?logo=jira&logoColor=white"></a>
-        <a href="https://www.odoo.com/"><img alt="Odoo" src="https://img.shields.io/badge/Odoo-4A7C9D.svg?logo=odoo&logoColor=white"></a>
 </p>
 
 ## 📊 GitHub Profile
